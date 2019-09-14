@@ -4,7 +4,7 @@ public class Recursividad {
     public static void main(String[] args) {
         File path=new File("C:\\Users\\user\\Documents\\MODUL");
 
-        recur(path,1);
+        recur(path,0);
 
 
     }
@@ -19,14 +19,17 @@ public class Recursividad {
             file1=new File(file,s);
             if (file1.isDirectory()){
 
-                System.out.printf("%"+((contador*3)+10)+"s \t %s \n","Directorio",file1.getName());
-
-                recur(file1,contador+1);
+                System.out.printf("- %"+((contador*3)+10)+"s  %s \n","Directorio",file1.getName());
+                contador+=1;
+                recur(file1,contador);
                 contador-=1;
             }else{
-                System.out.printf("%"+((contador*3)+10)+"s \t %s \n","Fichero",file1.getName());
+
+                System.out.printf("- %"+((contador*3)+10)+"s  %s \n","Fichero",file1.getName());
             }
 
         }
+
     }
 }
+
