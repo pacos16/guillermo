@@ -6,7 +6,9 @@ import java.util.Stack;
 public class pilaCola {
 
     public static void main(String[] args) {
-        File path=new File("C:\\Users\\user\\Documents\\MODUL");
+        //File path=new File("C:\\Users\\user\\Documents\\MODUL");
+        File path=new File("/home/paco");
+
         Stack<Directorio> pila=new Stack<>();
         File file;
         pila.add(new Directorio(path));
