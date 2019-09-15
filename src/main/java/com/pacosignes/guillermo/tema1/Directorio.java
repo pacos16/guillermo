@@ -1,25 +1,38 @@
 package com.pacosignes.guillermo.tema1;
 
 import java.io.*;
-import java.util.ArrayList;
+import java.util.LinkedList;
+import java.util.Queue;
+
 
 public class Directorio {
     private File file;
-    private int profundidad;
-    private ArrayList<File> lista;
+    private File[] lista;
+    private Queue<File> cola=new LinkedList<>();
 
-    public Directorio(File file, int profundidad) {
+
+    public Directorio(File file) {
         this.file = file;
-        this.profundidad = profundidad;
-        for (String s: file.list()
-             ) {
-            lista.add(new File(file,s));
+        try {
+            lista = new File[file.list().length];
+            for (int i = 0; i < file.list().length; i++) {
+                lista[i] = new File(file, file.list()[i]);
+                cola.add(new File(file, file.list()[i]));
+            }
+
+
+        } catch (NullPointerException npe) {
+            lista = null;
         }
     }
 
-    public boolean remove(File file){
-        return lista.remove(file);
+    public File getFile(){
+        return cola.poll();
     }
+
+
+
+
     public String getCanonicalPath(){
         try {
             return file.getCanonicalPath();
