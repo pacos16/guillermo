@@ -2,13 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4db060d0-a0ee-4683-92fd-9790f818e438" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pacosignes/guillermo/tema1/pilaCola.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/com/pacosignes/guillermo/tema1/Directorio.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/com/pacosignes/guillermo/tema1/Directorio.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/com/pacosignes/guillermo/tema1/Directorios.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/com/pacosignes/guillermo/tema1/Directorios.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/com/pacosignes/guillermo/tema1/Recursividad.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/com/pacosignes/guillermo/tema1/Recursividad.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/pacosignes/guillermo/tema1/Directorio.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/pacosignes/guillermo/tema1/Directorio.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/pacosignes/guillermo/tema1/Directorios.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/pacosignes/guillermo/tema1/Directorios.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/com/pacosignes/guillermo/tema1/pilaCola.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/com/pacosignes/guillermo/tema1/pilaCola.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/pacosignes/guillermo/tema1/pilaCola.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/pacosignes/guillermo/tema1/pilaCola.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.gradle/" />
     <ignored path="$PROJECT_DIR$/build/" />
@@ -43,24 +39,22 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/pacosignes/guillermo/tema1/Recursividad.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="378">
-              <caret line="18" column="111" selection-start-line="18" selection-start-column="19" selection-end-line="18" selection-end-column="111" />
+            <state relative-caret-position="346">
+              <caret line="17" column="34" lean-forward="true" selection-start-line="17" selection-start-column="34" selection-end-line="17" selection-end-column="34" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/pacosignes/guillermo/tema1/Directorio.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="210">
               <caret line="10" column="46" selection-start-line="10" selection-start-column="46" selection-end-line="10" selection-end-column="46" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#681#682#0" expanded="true" />
-                <element signature="e#709#710#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -69,7 +63,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/pacosignes/guillermo/tema1/Directorios.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="231">
+            <state relative-caret-position="315">
               <caret line="15" column="27" selection-start-line="15" selection-start-column="27" selection-end-line="15" selection-end-column="27" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -81,8 +75,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/pacosignes/guillermo/tema1/pilaCola.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="14" selection-start-line="14" selection-end-line="14" />
+            <state relative-caret-position="367">
+              <caret line="22" column="18" lean-forward="true" selection-start-line="22" selection-start-column="18" selection-end-line="22" selection-end-column="18" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -107,8 +101,8 @@
       <list>
         <option value="$PROJECT_DIR$/src/main/java/com/pacosignes/guillermo/tema1/Recursividad.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/pacosignes/guillermo/tema1/Directorios.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/pacosignes/guillermo/tema1/pilaCola.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/pacosignes/guillermo/tema1/Directorio.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/pacosignes/guillermo/tema1/pilaCola.java" />
       </list>
     </option>
   </component>
@@ -167,7 +161,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1568572680840" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1568573599703" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
@@ -186,7 +180,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.pilaCola">
+  <component name="RunManager" selected="Application.Recursividad">
     <configuration name="Directorios" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.pacosignes.guillermo.tema1.Directorios" />
       <module name="gillermo.untitled.main" />
@@ -255,9 +249,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Recursividad" />
         <item itemvalue="Application.pilaCola" />
         <item itemvalue="Application.Directorios" />
-        <item itemvalue="Application.Recursividad" />
         <item itemvalue="Application.Exercici2" />
         <item itemvalue="Application.Exercici1" />
       </list>
@@ -278,7 +272,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1938" height="1050" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" weight="0.25725028" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -289,7 +282,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.877551" weight="0.46892655" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.877551" visible="true" weight="0.46892655" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -348,16 +341,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/pacosignes/guillermo/tema1/Recursividad.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="378">
-          <caret line="18" column="111" selection-start-line="18" selection-start-column="19" selection-end-line="18" selection-end-column="111" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/pacosignes/guillermo/tema1/Directorios.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="231">
+        <state relative-caret-position="315">
           <caret line="15" column="27" selection-start-line="15" selection-start-column="27" selection-end-line="15" selection-end-column="27" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -367,8 +353,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/pacosignes/guillermo/tema1/pilaCola.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="14" selection-start-line="14" selection-end-line="14" />
+        <state relative-caret-position="367">
+          <caret line="22" column="18" lean-forward="true" selection-start-line="22" selection-start-column="18" selection-end-line="22" selection-end-column="18" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -381,9 +367,14 @@
           <caret line="10" column="46" selection-start-line="10" selection-start-column="46" selection-end-line="10" selection-end-column="46" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#681#682#0" expanded="true" />
-            <element signature="e#709#710#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/pacosignes/guillermo/tema1/Recursividad.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="346">
+          <caret line="17" column="34" lean-forward="true" selection-start-line="17" selection-start-column="34" selection-end-line="17" selection-end-column="34" />
         </state>
       </provider>
     </entry>

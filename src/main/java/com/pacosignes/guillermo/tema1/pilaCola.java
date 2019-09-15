@@ -15,10 +15,10 @@ public class pilaCola {
             file=pila.peek().getFile();
             if(file!=null){
                 if(file.isDirectory()){
-                    System.out.println(file.getPath());
+                    System.out.printf("%"+((3*pila.size())+10)+"s \t %s\n","Directorio",file.getName());
                     pila.add(new Directorio(file));
                 }else{
-                    System.out.println(file.getPath());
+                    System.out.printf("%"+((3*pila.size())+10)+"s \t %s\n","Fichero" ,file.getName());
                 }
             }else{
                 pila.pop();
