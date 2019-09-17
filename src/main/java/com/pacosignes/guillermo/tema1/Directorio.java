@@ -17,7 +17,7 @@ public class Directorio {
             lista = new File[file.list().length];
             for (int i = 0; i < file.list().length; i++) {
                 lista[i] = new File(file, file.list()[i]);
-                cola.add(new File(file, file.list()[i]));
+                cola.add(new File(file, lista[i].getName()));
             }
 
 

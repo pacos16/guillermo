@@ -8,21 +8,12 @@
       <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/classAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/classAnalysis.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/javaCompile.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/taskHistory.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/pacosignes/guillermo/tema1/Directorios.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/pacosignes/guillermo/tema1/Directorio.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/com/pacosignes/guillermo/tema1/Directorio.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/pacosignes/guillermo/tema1/Recursividad.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/com/pacosignes/guillermo/tema1/Recursividad.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/com/pacosignes/guillermo/tema1/Directorio.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/com/pacosignes/guillermo/tema1/Directorios.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/com/pacosignes/guillermo/tema1/Exercici1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/com/pacosignes/guillermo/tema1/Exercici2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/com/pacosignes/guillermo/tema1/Exercici3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/com/pacosignes/guillermo/tema1/Recursividad.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/com/pacosignes/guillermo/tema1/pilaCola.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/pacosignes/guillermo/tema1/Directorio.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/pacosignes/guillermo/tema1/Directorio.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/pacosignes/guillermo/tema1/Recursividad.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/pacosignes/guillermo/tema1/Recursividad.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/pacosignes/guillermo/tema1/pilaCola.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/pacosignes/guillermo/tema1/pilaCola.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -30,6 +21,9 @@
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="235" />
   </component>
   <component name="ExternalProjectsData">
     <projectState path="$PROJECT_DIR$">
@@ -146,8 +140,9 @@
       </method>
     </configuration>
     <configuration name="pilaCola" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="12" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
       <option name="MAIN_CLASS_NAME" value="com.pacosignes.guillermo.tema1.pilaCola" />
-      <module name="gillermo.untitled.main" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.pacosignes.guillermo.tema1.*" />
@@ -193,11 +188,18 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
     </option>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/untitled$pilaCola.ic" NAME="pilaCola Coverage Results" MODIFIED="1568665754733" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.pacosignes.guillermo.tema1.*</FILTER>
+    </SUITE>
   </component>
   <component name="masterDetails">
     <states>

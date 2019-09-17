@@ -3,8 +3,8 @@ import java.io.*;
 
 public class Recursividad {
     public static void main(String[] args) {
-        File path=new File("C:\\Users\\user\\Documents//MODUL");
-        //File path=new File("/home/paco");
+        //File path=new File("C:\\Users\\user\\Documents//MODUL");
+        File path=new File("/home/paco");
         recur(path,0);
     }
 
