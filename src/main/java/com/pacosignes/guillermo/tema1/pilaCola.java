@@ -8,7 +8,7 @@ import java.util.Stack;
         public static void main(String[] args) {
             //File path=new File("C:\\Users\\user\\Documents\\MODUL");
             File path=new File("/home/paco");
-
+            //File path=new File(args[0])
             Stack<Directorio> pila=new Stack<>();
             File file;
             pila.add(new Directorio(path));
@@ -20,7 +20,7 @@ import java.util.Stack;
                         System.out.printf("%"+((3*pila.size())+10)+"s \t %s\n","Directorio",file.getName());
                         pila.add(new Directorio(file));
                     }else{
-                        System.out.printf("%"+((3*pila.size())+10)+"s \t %s\n","Fichero" ,file.getName());
+                        System.out.printf("%"+((3*pila.size())+7)+"s \t %s\n","Fichero" ,file.getName());
                     }
                 }else {
                     pila.pop();
