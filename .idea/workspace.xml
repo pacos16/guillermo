@@ -2,19 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4db060d0-a0ee-4683-92fd-9790f818e438" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pacosignes/guillermo/tema1/Act03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pacosignes/guillermo/tema1/CambioNombre.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/pacosignes/guillermo/tema1/EscribirFich.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/fileContent/fileContent.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/fileContent/fileContent.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/classAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/classAnalysis.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/javaCompile.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/pacosignes/guillermo/tema1/Directorio.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/com/pacosignes/guillermo/tema1/Directorio.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/pacosignes/guillermo/tema1/Directorio.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/pacosignes/guillermo/tema1/Directorio.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/pacosignes/guillermo/tema1/pilaCola.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/pacosignes/guillermo/tema1/pilaCola.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -85,7 +82,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Recursividad">
+  <component name="RunManager" selected="Application.EscribirFich">
     <configuration name="Act03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.pacosignes.guillermo.tema1.Act03" />
       <module name="untitled.main" />
@@ -99,9 +96,9 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Directorios" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.pacosignes.guillermo.tema1.Directorios" />
-      <module name="gillermo.untitled.main" />
+    <configuration name="EscribirFich" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.pacosignes.guillermo.tema1.EscribirFich" />
+      <module name="untitled.main" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.pacosignes.guillermo.tema1.*" />
@@ -112,8 +109,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Exercici2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.pacosignes.guillermo.tema1.Exercici2" />
+    <configuration name="LeerFichero" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.pacosignes.guillermo.tema1.LeerFichero" />
       <module name="untitled.main" />
       <extension name="coverage">
         <pattern>
@@ -154,19 +151,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Directorios" />
-      <item itemvalue="Application.Exercici2" />
       <item itemvalue="Application.pilaCola" />
       <item itemvalue="Application.Recursividad" />
       <item itemvalue="Application.Act03" />
+      <item itemvalue="Application.LeerFichero" />
+      <item itemvalue="Application.EscribirFich" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.EscribirFich" />
+        <item itemvalue="Application.LeerFichero" />
         <item itemvalue="Application.Recursividad" />
         <item itemvalue="Application.pilaCola" />
         <item itemvalue="Application.Act03" />
-        <item itemvalue="Application.Directorios" />
-        <item itemvalue="Application.Exercici2" />
       </list>
     </recent_temporary>
   </component>
