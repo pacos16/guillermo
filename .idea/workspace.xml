@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4db060d0-a0ee-4683-92fd-9790f818e438" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pacosignes/guillermo/tema1/EscribirFich.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/pacosignes/guillermo/tema1/LeerBufferedReverse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/pacosignes/guillermo/tema1/copiarFicheroPorParametro.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/fileContent/fileContent.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/fileContent/fileContent.lock" afterDir="false" />
@@ -12,6 +13,8 @@
       <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/javaCompile.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/pacosignes/guillermo/tema1/EscribirFich.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/com/pacosignes/guillermo/tema1/EscribirFich.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/pacosignes/guillermo/tema1/EscribirFich.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/pacosignes/guillermo/tema1/EscribirFich.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -82,9 +85,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.EscribirFich">
-    <configuration name="Act03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.pacosignes.guillermo.tema1.Act03" />
+  <component name="RunManager" selected="Application.LeerBufferedReverse">
+    <configuration name="EscribirFich" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.pacosignes.guillermo.tema1.EscribirFich" />
       <module name="untitled.main" />
       <extension name="coverage">
         <pattern>
@@ -96,8 +99,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="EscribirFich" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.pacosignes.guillermo.tema1.EscribirFich" />
+    <configuration name="LeerBufferedReverse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.pacosignes.guillermo.tema1.LeerBufferedReverse" />
       <module name="untitled.main" />
       <extension name="coverage">
         <pattern>
@@ -153,17 +156,17 @@
     <list>
       <item itemvalue="Application.pilaCola" />
       <item itemvalue="Application.Recursividad" />
-      <item itemvalue="Application.Act03" />
       <item itemvalue="Application.LeerFichero" />
       <item itemvalue="Application.EscribirFich" />
+      <item itemvalue="Application.LeerBufferedReverse" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.LeerBufferedReverse" />
         <item itemvalue="Application.EscribirFich" />
         <item itemvalue="Application.LeerFichero" />
         <item itemvalue="Application.Recursividad" />
         <item itemvalue="Application.pilaCola" />
-        <item itemvalue="Application.Act03" />
       </list>
     </recent_temporary>
   </component>
