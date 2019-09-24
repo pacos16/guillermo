@@ -9,6 +9,6 @@ public class unRegistro {
     //leeer todo
     //modificar
     //modificar lo que te diga
-    
+
 
 }
