@@ -19,7 +19,7 @@ public class RandomAcces {
         String[] noms= {"Ruben","Toni","Juan","Christian"};
         int[] edad= {22,23,24,25};
         double[] nota={3.5,8.3,6.8,5.4};
-
+        System.out.println(fichero.length());
         for (int i=0;i<noms.length;i++){
             raf.writeUTF(noms[i]);
             raf.writeInt(edad[i]);
