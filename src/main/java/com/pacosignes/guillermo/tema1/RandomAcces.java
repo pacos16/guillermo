@@ -23,6 +23,7 @@ public class RandomAcces {
         //introduccion de datos
         for (int i=0;i<noms.length;i++){
             raf.writeUTF(noms[i]);
+            System.out.println(noms[i]);
             raf.writeInt(edad[i]);
             raf.writeDouble(nota[i]);
         }
